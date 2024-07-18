@@ -18,7 +18,7 @@
 ## 💼 Experience
 
 ### Integration Engineer (Intern) @ Ericsson
-- 🛠️ Developed an internal audio/video calling and live streaming platform using Agora.
+- 🛠️ Developed an internal audio/video calling and live streaming platform.
 - 🤖 Created a chatbot using Generative AI and RAG for improved IT support.
 
 ### Intrapreneur (Backend Engineer) @ NexaWings
