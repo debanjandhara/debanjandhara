@@ -48,13 +48,12 @@
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C/C++, Python, JavaScript, Bash
-- **Libraries:** C++ STL, OpenCV, Scrapy, Selenium, Langchain, OpenAI, Streamlit, Gradio
-- **Frameworks:** FastAPI, Flask, Django, ExpressJS
-- **Databases:** MySQL, SQLite, MongoDB, FAISS DB, ChromaDB, Pinecone
-- **Cloud Storage:** Google Cloud Storage, S3, Azure Blob
-- **Operating Systems:** Windows, Linux, Virtualization, Network Utilities
-- **Soft Skills:** Problem Solving, Self-learning, Adaptability
+**Languages:** C/C++, Python, JavaScript, Bash  
+**Libraries:** C++ STL, OpenCV, Scrapy, Selenium, Langchain, OpenAI, Streamlit, Gradio  
+**Frameworks:** FastAPI, Flask, Django, ExpressJS  
+**Databases:** MySQL, SQLite, MongoDB, FAISS DB, ChromaDB, Pinecone  
+**Cloud Storage:** Google Cloud Storage, S3, Azure Blob  
+**Other Skills:** GCP (Compute Engine, Cloud Storage, Cloud SQL, Cloud Functions, IAM, VPC), Nginx/Apache (Reverse Proxy Load Balancer), SLURM - HPC cluster, Network Utilities, Problem Solving, Self-learning, Adaptability
 
 ---
 
